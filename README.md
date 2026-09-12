@@ -234,3 +234,6 @@ Friday has the lowest non-zero Present % at 90.08% among the displayed weekdays.
 WFH percentages fluctuate considerably across dates, indicating that remote-working behavior is not constant.
 Daily attendance shows noticeable fluctuations, making date-level monitoring useful for HR planning.
 Employee-level analysis helps identify differences in attendance behavior that would be difficult to spot in a raw attendance spreadsheet.
+
+9 - Screenshot
+https://github.com/Pranjal99-coder/Data-Analytics---HR-analytics-dashboard/blob/main/snapshot_HR-_Analytics.png
